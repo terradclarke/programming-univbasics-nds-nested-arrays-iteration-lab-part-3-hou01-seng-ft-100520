@@ -13,7 +13,7 @@ def join_nested_strings(src)
     end 
     row_index += 1 
   end  
-nested_strings.join 
+nested_strings.join(" ")
 end 
 
  
